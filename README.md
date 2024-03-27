@@ -1,15 +1,18 @@
-# CTHASOPL
-This repository is intended for the upcoming next sem
+# 💫 CTHASOPL COM23P
+## Course Overview
+### Name: Jay Arre Talosig  
+### Subject: CTHASOPL - Hardware, Software, and Peripheral Installation
+### Section: COM23P   
+### Professor: Marizkays P. Jamison        
+
+# 📊 Table of Contents
+
+## [Introduction](#introduction)
+This repository contains source code for a Java project that focuses on Intermediate concepts, codes and exercises.
 
 # CTHASOPL - Hardware, Software, and Peripheral Installation
 
 Welcome to the CTHASOPL course! In this course, we will be focusing on hardware, software, and peripheral installation. This documentation will provide you with all the necessary information to successfully complete the course.
-
-## Course Overview
-* Course Name: CTHASOPL - Hardware, Software, and Peripheral Installation
-* Course Duration: Coming Soon
-* Instructor: Coming Soon
-* Course Code: CTHASOPL
 
 # Course Objectives
 By the end of this course, you will be able to:
