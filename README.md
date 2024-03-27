@@ -3,7 +3,7 @@
 ### Name: Jay Arre Talosig  
 ### Subject: CTHASOPL - Hardware, Software, and Peripheral Installation
 ### Section: COM23P   
-### Professor: Marizkays P. Jamison        
+### Professor: Marizkays P. Jamison 👋       
 
 # 📊 Table of Contents
 
