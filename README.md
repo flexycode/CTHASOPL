@@ -49,7 +49,14 @@ By the end of this course, you will be able to:
 * Familiarity with operating systems (Windows, macOS, Linux)
 
 # Resources
-[Insert recommended textbooks or online resources here]
+
+### Week 2
+
+<img src="images/10.jpg"> 
+
+<img src="images/11.jpg"> 
+<img src="images/2.jpg">
+
 [Insert any additional resources or materials here]
 
 # Assessment
@@ -59,5 +66,9 @@ Grading will be based on [Insert assessment criteria here]
 
 # Support
 If you have any questions or need assistance during the course, please feel free to reach out to the instructor or the course support team.
+
+# Contributors
+* [Anilov](https://github.com/tiquioani)
+* [Gab](https://github.com/IYB-Mata) 
 
 
