@@ -57,6 +57,11 @@ By the end of this course, you will be able to:
 <img src="images/11.jpg"> 
 <img src="images/2.jpg">
 
+### Week 3
+```bash
+See in Week 3 Folder
+```
+
 [Insert any additional resources or materials here]
 
 # Assessment
