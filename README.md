@@ -66,10 +66,14 @@ See in Week 3 Folder
 ```bash
 See in Week 4 Folder
 ```
+https://www.scribd.com/document/618925363/Notes-on-Acronyms
+
 ### Week 5
 ```bash
 See in Week 5 Folder
 ```
+https://www.electronicshub.org/types-of-computer-ports/
+
 
 [Insert any additional resources or materials here]
 
