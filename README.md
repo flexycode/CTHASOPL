@@ -73,11 +73,11 @@ https://www.scribd.com/document/618925363/Notes-on-Acronyms
 See in Week 5 Folder
 ```
 https://www.electronicshub.org/types-of-computer-ports/
-
+https://turbofuture.com/computers/the-motherboard-components
 
 [Insert any additional resources or materials here]
 
-# Assessment
+# 💻 Assessment 
 Grading will be based on [Insert assessment criteria here]
 [Insert information about exams, assignments, and projects here]
 
@@ -85,7 +85,7 @@ Grading will be based on [Insert assessment criteria here]
 # Support
 If you have any questions or need assistance during the course, please feel free to reach out to the instructor or the course support team.
 
-# Contributors
+# Contributors 
 * [Anilov](https://github.com/tiquioani)
 * [Gab](https://github.com/IYB-Mata) 
 
