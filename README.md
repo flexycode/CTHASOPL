@@ -72,8 +72,8 @@ https://www.scribd.com/document/618925363/Notes-on-Acronyms
 ```bash
 See in Week 5 Folder
 ```
-https://www.electronicshub.org/types-of-computer-ports/
-https://turbofuture.com/computers/the-motherboard-components
+* https://www.electronicshub.org/types-of-computer-ports/
+* https://turbofuture.com/computers/the-motherboard-components
 
 [Insert any additional resources or materials here]
 
