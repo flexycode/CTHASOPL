@@ -87,6 +87,7 @@ If you have any questions or need assistance during the course, please feel free
 
 # Contributors 
 * [Anilov](https://github.com/tiquioani)
-* [Gab](https://github.com/IYB-Mata) 
+* [Gab](https://github.com/IYB-Mata)
+* [Jay](https://github.com/flexycode) 
 
 
