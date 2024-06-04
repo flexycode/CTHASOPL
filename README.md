@@ -75,6 +75,12 @@ See in Week 5 Folder
 * https://www.electronicshub.org/types-of-computer-ports/
 * https://turbofuture.com/computers/the-motherboard-components
 
+### Week 8  
+
+
+### Week 9
+
+
 [Insert any additional resources or materials here]
 
 # 💻 Assessment 
