@@ -76,11 +76,12 @@ See in Week 5 Folder
 * https://turbofuture.com/computers/the-motherboard-components
 
 ### Week 8  
-
+* Assemble and Dissable of System Unit 
+*
 
 ### Week 9
-
-
+*
+*
 [Insert any additional resources or materials here]
 
 # 💻 Assessment 
