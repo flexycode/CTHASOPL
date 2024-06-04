@@ -82,7 +82,7 @@ See in Week 5 Folder
 
 ### Week 9
 * Install Operating System 
-*
+* Demonstrate how the Operating System works after installed
 [Insert any additional resources or materials here]
 
 # 💻 Assessment 
