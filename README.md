@@ -77,10 +77,11 @@ See in Week 5 Folder
 
 ### Week 8  
 * Assemble and Dissable of System Unit 
-*
+* Identify the ports in every socket in the motherboard
+* Play along with the computer parts in order to familiarize those components each
 
 ### Week 9
-*
+* Install Operating System 
 *
 [Insert any additional resources or materials here]
 
